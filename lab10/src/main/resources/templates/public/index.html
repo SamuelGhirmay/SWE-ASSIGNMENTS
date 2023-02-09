@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+          crossorigin="anonymous">
+    <title>Maharishi:International:University</title>
+</head>
+<body>
+<header th:replace="fragments/header :: header"></header>
+<main>
+    <h1>Welcome to Maharishi University</h1>
+    <hr>
+    <br>
+
+    <div>
+    <p>
+        We come from many places, cultures, and backgrounds, but share a strong common commitment
+        to personal inner growth,wellness, sustainability, and positive values.
+        We support a progressive and inclusive campus culture that’s creative, dynamic,
+        and focused on making the world a better, more peaceful place.
+    </p>
+        <img id="banner-img" th:src="@{/images/mahar.png}" alt="mahar">
+    </div>
+</main>
+<div th:replace="/fragments/footer :: footer"></div>
+</body>
+</html>

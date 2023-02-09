@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignments.iml" filepath="$PROJECT_DIR$/.idea/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab13/Lab13.iml" filepath="$PROJECT_DIR$/Lab13/Lab13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10_springwebmvc_fairfieldlibrarywebapp/fairfieldlibrarywebapp.iml" filepath="$PROJECT_DIR$/lesson10_springwebmvc_fairfieldlibrarywebapp/fairfieldlibrarywebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/lab10.iml" filepath="$PROJECT_DIR$/lab10/lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11/lab10 (1).iml" filepath="$PROJECT_DIR$/lab11/lab10 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12/lab10 (2).iml" filepath="$PROJECT_DIR$/lab12/lab10 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab9/student/student.iml" filepath="$PROJECT_DIR$/lab9/lab9/student/student.iml" />
+    </modules>
+  </component>
+</project>
